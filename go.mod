@@ -1,4 +1,4 @@
-module github.com/quantcast/g2
+module github.com/peifengjing/g2
 
 require (
 	github.com/appscode/go v0.0.0-20180628092646-df3c57fca2be
